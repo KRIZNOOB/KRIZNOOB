@@ -1,3 +1,4 @@
+![Header](./github-header-banner.png)
 - 👋 Hi, I’m @KRIZNOOB
 - 👀 I’m interested in Data and Frontend Developer
 - 🌱 I’m currently learning Data Science and Data Analyst
