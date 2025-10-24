@@ -1,10 +1,16 @@
 ![KRIZNOOB](img/github-header-banner.png)
-- 👋 Hi, I’m @KRIZNOOB
-- 👀 I’m interested in Data and Frontend Developer
-- 🌱 I’m currently learning Data Science and Data Analyst
-- 📫 You can reach me via email at christianvalentino45@gmail.com.
-- ⚡ Fun fact : I enjoy trying out unusual things that often linger in my mind. HAHA
 
+### Skills
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,laravel,react,vue,python,figma&theme=light)](https://skillicons.dev)
+
+### Reach Me On
+![https://www.instagram.com/christiannnv_/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/christianvalentino13/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KRIZNOOB/KRIZNOOB/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KRIZNOOB/KRIZNOOB/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KRIZNOOB/KRIZNOOB/output/pacman-contribution-graph.svg">
+</picture>
 <!---
 KRIZNOOB/KRIZNOOB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
